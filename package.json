@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node index",
     "dev": "node index",
     "serve": "node index"
   },
